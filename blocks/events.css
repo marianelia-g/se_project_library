@@ -1,0 +1,85 @@
+.events {
+  padding: 100px 0 120px 80px;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+}
+
+.events__content {
+  flex-basis: 580px;
+}
+
+.events__heading {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  margin: 0;
+}
+
+.events__title {
+  font-size: 44px;
+  font-weight: 500;
+  line-height: 52px;
+  margin: 32px 0 0;
+}
+
+.events__info-section {
+  margin-top: 32px;
+}
+
+.event-info__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  font-weight: 500;
+}
+
+.event-info__icon {
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 12px;
+  width: 24px;
+  height: 24px;
+}
+
+.event-info__icon_type_calendar {
+  background-image: url(../images/icon_calendar.svg);
+}
+
+.event-info__icon_type_pin {
+  background-image: url(../images/icon_pin.svg);
+}
+
+.event-info__text {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  margin: 0;
+}
+
+.events__description {
+  margin: 40px 0 60px;
+}
+
+.events__more {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.events__more:hover {
+  color: #1f69c9;
+}
+
+.events__cover {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 780px;
+  max-width: 780px;
+  position: relative;
+}
+
+.events__image {
+  max-width: 100%;
+}

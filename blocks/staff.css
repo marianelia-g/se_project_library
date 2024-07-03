@@ -1,0 +1,35 @@
+.staff {
+  padding: 100px 0 140px;
+  background-image: url(../images/staff_picks_background.jpg);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.staff__title {
+  text-align: center;
+  font-size: 44px;
+  line-height: 52px;
+  margin: 0 0 24px;
+  color: #fff;
+}
+
+.staff__subtitle {
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  margin: 0;
+  color: #fff;
+}
+
+.staff__cards {
+  max-width: 760px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 40px;
+  margin: 68px auto auto;
+  list-style-type: none;
+  padding: 0;
+}

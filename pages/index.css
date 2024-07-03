@@ -1,0 +1,12 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/nav.css);
+@import url(../blocks/events.css);
+@import url(../blocks/person.css);
+@import url(../blocks/staff.css);
+@import url(../blocks/card.css);
+@import url(../blocks/membership.css);
+@import url(../blocks/step.css);
+@import url(../blocks/about.css);
+@import url(../blocks/footer.css);
