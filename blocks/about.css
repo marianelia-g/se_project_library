@@ -61,6 +61,6 @@
   z-index: 0;
 }
 
-.about__circle_animation_blurred {
+.about__circle--animation-blurred {
   animation: pulsate 2.3s ease-in-out 0s infinite;
 }

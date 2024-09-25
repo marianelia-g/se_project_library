@@ -7,27 +7,27 @@
   margin: 0;
 }
 
-.person_name_feynman {
+.person--name-feynman {
   top: -30px;
   left: 319px;
 }
 
-.person_name_burbidge {
+.person--name-burbidge {
   top: 96px;
   right: 125px;
 }
 
-.person_name_cannon {
+.person--name-cannon {
   bottom: 18px;
   right: 216px;
 }
 
-.person_name_mitchell {
+.person--name-mitchell {
   bottom: 82px;
   left: 142px;
 }
 
-.person_name_tarter {
+.person--name-tarter {
   top: 79px;
   left: 159px;
 }
@@ -36,15 +36,15 @@
   max-width: 100%;
 }
 
-.person__image_size_l {
+.person__image--size-l {
   width: 140px;
 }
 
-.person__image_size_m {
+.person__image--size-m {
   width: 100px;
 }
 
-.person__image_size_s {
+.person__image--size-s {
   width: 80px;
 }
 

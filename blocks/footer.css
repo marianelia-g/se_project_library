@@ -14,11 +14,11 @@
   margin-left: auto;
 }
 
-.footer__column_content_hours {
+.footer__column--content-hours {
   margin: 0 0 0 auto;
 }
 
-.footer__column_content_social {
+.footer__column--content-social {
   margin: 0 0 0 100px;
 }
 
